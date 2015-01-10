@@ -1,0 +1,47 @@
+div.row {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.search-filter input {
+    font-size: 24px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    padding: 32px;
+}
+
+.search-filter .form-group {
+    margin-bottom: 0px;
+    padding-left: 4px;
+}
+
+.search-result h1 {
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 16px;
+}
+
+.search-result .col-md-12 {
+    margin-top: 16px;
+    margin-bottom: 16px;
+    border-radius: 4px;
+}
+
+.bg-silver {
+    background-color: #DDDDDD;
+}
+
+.bg-red {
+    background-color: #FF4136;
+    color: #fff;
+}
+
+.bg-lime {
+    background-color: #01FF70;
+    color: #fff;
+}
+
+.bg-blue {
+    background-color: #0074D9;
+    color: #fff;
+}
